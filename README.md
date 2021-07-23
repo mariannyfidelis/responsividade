@@ -1,6 +1,6 @@
-# app_responsividade
+# Aplicativo que trabalha a responsividade
 
-A new Flutter project.
+Um novo projeto que trabalha a responsividade em diferentes tipos de telas.
 
 ## Getting Started
 
